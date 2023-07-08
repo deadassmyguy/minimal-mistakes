@@ -1,5 +1,5 @@
 ---
-title: "Mentorship Programming - Get Stared in Tech Today!"
+title: "Mentorship Programming - Get Started in Tech Today!"
 layout: single
 categories:
   - interview_prep
@@ -14,6 +14,7 @@ tags:
   - mentorship
 header:
   overlay_image: "/assets/images/categories/career/mentorship-1.jpeg"
+  teaser: "/assets/images/categories/career/mentorship-1.jpeg"
   caption: "Photo by **[Markus Spiske](https://www.pexels.com/@markusspiske?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/technology-computer-desktop-programming-113850/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**"
 ---
 
