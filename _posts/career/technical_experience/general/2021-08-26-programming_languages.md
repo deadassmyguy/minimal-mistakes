@@ -30,11 +30,11 @@ In this post, I explain my understanding of some of my favorite programming lang
 
 # Rust
 
-I love Rust; it's a great example of what a ******\*\*******perfect******\*\******* programming language is. It allows users to be efficient with their memory utilization without allowing them to shoot themselves in the foot. It also has amazing built-in features like enums, interfaces, options, etc.
+I love Rust; it's a great example of what a **perfect** programming language is. It allows users to be efficient with their memory utilization without allowing them to shoot themselves in the foot. It also has amazing built-in features like enums, interfaces, options, etc.
 
 The more code I write in Rust, the more I love it. The developers made sure to build a language that people would love. It’s thoughtful, well-designed, and precisely executed. It is my primary language of choice for most backend projects.
 
-******************\*\*******************I have worked with _\***\*Rust\*\***_ in the following capacity:\*\*
+**I have worked with \_**Rust**\_ in the following capacity:**
 
 - I have written multiple applications from scratch in Rust.
 - I have used popular libraries like Tokio, Serde, Tungstenite, and a few others.
