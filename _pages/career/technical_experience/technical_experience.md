@@ -105,7 +105,7 @@ Here I capture a few of my past roles of great significance.
 
 ## Messari
 
-While working at Messari, the team and I tackled many challenges and exciting problems. The most significant overhaul was re-writing our entire market data pipeline in Rust. \***\*Pantheon\*\*** was the name of our mono repo, and it was an absolute beast. We built a robust, configurable, adaptable pipeline.
+While working at Messari, the team and I tackled many challenges and exciting problems. The most significant overhaul was re-writing our entire market data pipeline in Rust. **Pantheon** was the name of our mono repo, and it was an absolute beast. We built a robust, configurable, adaptable pipeline.
 
 We added robust anomaly detection to avoid ingesting bad or misleading data. We also captured “proof data.” This was all the underlying data that was utilized to determine a price. We captured it in a coherent way to find outliers and showcase to clients how a price was determined. My idea with this design was to sell it to regulators that might want to understand the price of an asset across markets.
 
@@ -148,15 +148,3 @@ I started learning **Python** and quickly began working on the ILP (Internal Liq
 Eventually, I moved on to **C/C++**. Although I left before I could show my skills in **C/C++**, I believe that my former colleagues would be happy with my growth.
 
 Working directly with trading applications in a programmatic way, I could learn their internal features and functions intimately. The lessons learned through projects like ILP gave me a deeper and richer insight into the complexity of market data, order entry, smart order routing, microwaves, and data manipulation. I hope to bring this insight to a company dedicated to creating robust, efficient, and dynamic trading systems.
-
-# Subpages
-
-[Technical Experience: DevOps Tools](https://www.notion.so/Technical-Experience-DevOps-Tools-c614ac9a396c40e8858cd791d8870098?pvs=21)
-
-[Technical Experience: Programming Languages](https://www.notion.so/Technical-Experience-Programming-Languages-bd1bdd05761546fca21c5967b166f78e?pvs=21)
-
-[Technical Experience: Core Knowledge](https://www.notion.so/Technical-Experience-Core-Knowledge-476de915b3754770b38fb72677f349b9?pvs=21)
-
-[Technical Experience: Internal Trading Market](https://www.notion.so/Technical-Experience-Internal-Trading-Market-758994e99b754bf8ad8882e638a72e91?pvs=21)
-
-[Technical Experience: Microwave](https://www.notion.so/Technical-Experience-Microwave-db87b954c271443a9c8e08e3aa37ab9b?pvs=21)

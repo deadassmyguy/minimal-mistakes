@@ -34,7 +34,7 @@ I love Rust; it's a great example of what a **perfect** programming language is.
 
 The more code I write in Rust, the more I love it. The developers made sure to build a language that people would love. It’s thoughtful, well-designed, and precisely executed. It is my primary language of choice for most backend projects.
 
-**I have worked with \_**Rust**\_ in the following capacity:**
+**I have worked with Rust in the following capacity:**
 
 - I have written multiple applications from scratch in Rust.
 - I have used popular libraries like Tokio, Serde, Tungstenite, and a few others.
@@ -46,7 +46,7 @@ The more code I write in Rust, the more I love it. The developers made sure to b
 - I can write code efficiently with it. I am not afraid of the borrow checker.
 - I understand best practices for design and implementation.
 
-\__This is how I would like to continue my growth and understanding of Rust_:\_\*\*
+**This is how I would like to continue my growth and understanding of _Rust:_**
 
 - Continue writing amazing applications.
 
