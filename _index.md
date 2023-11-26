@@ -1,23 +1,22 @@
 # Welcome Everyone
 
-This website collects my interests, projects, services, reports, learning experiences, and more. Check out the [categories](https://abdurabbani00.atlassian.net/categories/) section to see the topics I have written about. You can also find more information [about](https://abdurabbani00.atlassian.net/about/) the purpose of my website.
+This website collects my interests, projects, services, reports, learning experiences, and more. Check out the [categories](/categories/) section to see the topics I have written about. You can also find more information [about](/about/) the purpose of my website.
 
 # Updates
 
-Last updated: 07/08/2023
+Last updated:11/29/2023
 
-I’ve been working on a few exciting things in the last few months. But most recently, I am trying to enjoy this warm summer weather.
+I’ve been working on a few exciting things in the last few months. I am working behind the scenes on a potential new idea. Stay tuned for more.
 
 ## Professional
 
-A few _professional_ updates:
+A few *professional* updates:
 
-- My team and I have rebuilt our entire market data pipeline in Rust. Rust is the best programming language known to man.
-- I’ve built out my own product, [Neural Canopy](https://neuralcanopy.com/), an AI prompt template. I am still working on it and appreciate any feedback.
+- Messari’s Mainnet event was a huge success. We unveiled many new products, including the new market data pipeline that my team led.
+- I have completed a design course on [Udemy](https://www.udemy.com/certificate/UC-f8b88c86-d127-402b-b6d3-62c19c3b06b8/). This was an incredibly eye-opening course. I learned about the design decisions made all around us.
 
 ## Personal
 
 A few personal updates:
 
-- I’ve started training Muay Thai and a bit of BJJ. I miss combat sports and I thought I would enjoy BJJ more than striking, but there's something about throwing a combination and having it land that feels just right.
-- I’ve also started coaching high school wrestling on Sundays. This has been something I’ve wanted to do for years. I am very happy to have taken the leap.
+- I am very excited about the upcoming college wrestling season. This is my favorite time of the year as a sports fan.
