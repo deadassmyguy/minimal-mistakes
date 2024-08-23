@@ -4,19 +4,21 @@ This website collects my interests, projects, services, reports, learning experi
 
 # Updates
 
-Last updated:11/29/2023
+Last updated:08/23/2024
 
-I’ve been working on a few exciting things in the last few months. I am working behind the scenes on a potential new idea. Stay tuned for more.
+It's been almost a year since my last update, a lot has happened since then.
 
 ## Professional
 
-A few *professional* updates:
+A few _professional_ updates:
 
-- Messari’s Mainnet event was a huge success. We unveiled many new products, including the new market data pipeline that my team led.
-- I have completed a design course on [Udemy](https://www.udemy.com/certificate/UC-f8b88c86-d127-402b-b6d3-62c19c3b06b8/). This was an incredibly eye-opening course. I learned about the design decisions made all around us.
-
+- I've been building a social platform called [Civikka](https://civikka.com). I want to make a difference in the way our democracy works, here's my first try.
+- Frontend development isn't all that bad, I really enjoy using Sveltekit, it's changed FE development for me.
+- I've been using Obsidian for journaling and personal life tracking, I can't recommend it enough.
+- I dislocated my shoulder Wrestling, I am no spring chicken. I've recovered sufficiently and will be back in the Gym soon.
 ## Personal
 
 A few personal updates:
 
-- I am very excited about the upcoming college wrestling season. This is my favorite time of the year as a sports fan.
+- I just got back from three weeks in Spain. It was wonderful, I went to Madrid, Mallorca, Barcelona, and Sevilla. Europe is old. The lifestyle and value system is very different, although its too lax for me, I respect it.
+- For those of you who don't know, I got married to my high school sweet heart in February.
