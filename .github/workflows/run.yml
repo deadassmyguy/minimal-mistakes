@@ -3,7 +3,7 @@ name: Start Website
 on:
   push:
     branches:
-      - gh-pages
+      - master
 jobs:
   build:
     name: Algolia push records
