@@ -30,45 +30,32 @@ This section of my website is meant to serve as a deep dive into my experience w
 
 Throughout my tech career, I have had the pleasure of having many teachers and learning many things. Some of my teachers have been books, videos, online courses, and, best of all, people. Below, I have summarized and linked the posts that capture my experience with prominent tools. Please click on the appropriate link to read any of the posts and see my experiences in more detail.
 
-- [**DevOps Tools**](/categories/career/technical_experience/devops_tools) - A post capturing my experience with the tools and technologies I learned as a DevOps engineer.
-
+- **[DevOps Tools](https://abdurabbani00.atlassian.net/categories/career/technical_experience/devops_tools)** - A post capturing my experience with the tools and technologies I learned as a DevOps engineer.
   - **CI/CD Tools** - Created pipelines with **Jenkins**, **Travis**, and **GitHub Actions**.
-
   - **Terraform** - Wrote Terraform modules and contributed to multiple **Microsoft open source** repositories.
-
   - **Ansible** - Wrote hundreds of playbooks and roles in one of my favorite tools.
-
   - **Containers** - Utilized **Docker** and **Kubernetes** for development, deployment, and more.
-
-- [**Programming Languages**](/categories/career/technical_experience/programming_languages) - A post capturing the languages I learned to _speak_ and write in, as well as my point of view on them.
-
+- **[Programming Languages](https://abdurabbani00.atlassian.net/categories/career/technical_experience/programming_languages)** - A post capturing the languages I learned to _speak_ and write in, as well as my point of view on them.
   - **Python** - My first and favorite programming language that I have used to write various scripts and applications.
-
-  - **Go** - A new favorite language. I appreciate the similarities to C while providing easy syntax like Python.
-
+  - **Rust -** The greatest programming language I have ever used, hands down. Rust’s ability to give developers complete control while providing guard rails is fantastic. The more I use Rust, the more I love it.
+  - **Go** - A great language that genuinely showcases the power of modern programming languages. I’ve built applications, APIs, and microservices in Go. I love it.
+  - **Javascript** - I’ve used Javascript, Typescript, and node for a slew of things. I’ve put together some frontend applications using React and some backend APIs using node.
   - **C++** - A language I enjoyed writing code in and learned to understand at a deep level from an application perspective. I have configured, monitored, optimized, and tested many C++ applications.
-
-  - **C** - A beautiful language that I _simply_ love. C provides elegancy and simplicity, which has made me an ardent supporter. A language I am happy I learned.
-
+  - **C** - A beautiful language that I _simply_ love. C provides elegance and simplicity, which has made me an ardent supporter. A language I am happy I learned.
+  - **Solidity -** I’ve written several smart contracts in Solidity, and its a must know for any developer in the blockchain space.
   - **Scala** - A language I picked up so that I may understand functional programming. I have also learned to work with Spark in Scala.
-
   - **Lua** - A language that I learned when writing NGINX custom modules.
-
   - **Bash** - A powerful scripting language that I continuously return to.
-
-- [**Core Knowledge**](/categories/career/technical_experience/core_knowledge) - A post capturing my knowledge of fundamental technologies, ideas, and concepts.
-
+- **[Core Knowledge](https://abdurabbani00.atlassian.net/categories/career/technical_experience/core_knowledge)** A post capturing my knowledge of fundamental technologies, ideas, and concepts.
   - **Linux Kernel Internals** - Emphasizing my deep appreciation of Linux, I now learned to understand the true beauty behind it.
-
   - **Core Internet Protocols** - Emphasizing my understanding of core internet protocols at a development level instead of simply understanding them at a user level.
 
 # Featured Projects
 
 The following links highlight a few projects that I’ve worked on in some of my previous roles. Fair warning, I will mainly capture my experience working in finance, as most of my experience working in tech can be captured within the “DevOps Tools” section.
 
-- [**Internal Trading Market**](/categories/career/technical_experience/internal_trading_market) - At Societe General, I was responsible for creating an “internal market” that external clients would be able to route orders to. Learn about my experience with **Python**, **Pandas**, **market data**, **order entry**, and **smart order routing (SOR)** [here](/categories/career/technical_experience/internal_trading_market).
-
-- [**Microwave**](/categories/career/technical_experience/microwave) - At Societe General, I worked closely with our Microwave instances. Learn about my experience configuring, analyzing, testing, upgrading, and architecting solutions for Microwaves [here](/categories/career/technical_experience/internal_trading_market).
+- **[Internal Trading Market](https://abdurabbani00.atlassian.net/categories/career/technical_experience/internal_trading_market)** At Societe General, I was responsible for creating an “internal market” that external clients would be able to route orders to. Learn about my experience with **Python**, **Pandas**, **market data**, **order entry**, and **smart order routing (SOR)** [here](https://abdurabbani00.atlassian.net/categories/career/technical_experience/internal_trading_market).
+- **[Microwave](https://abdurabbani00.atlassian.net/categories/career/technical_experience/microwave)** - At Societe General, I worked closely with our Microwave instances. Learn about my experience configuring, analyzing, testing, upgrading, and architecting solutions for Microwaves [here](https://abdurabbani00.atlassian.net/categories/career/technical_experience/internal_trading_market).
 
 # Open-Source Contributions
 
@@ -77,43 +64,28 @@ The following links highlight a few projects that I’ve worked on in some of my
 The following contributions were made to Azure’s Cloud Architecture Framework (CAF), where I worked directly with the leaders in cloud automation.
 
 - [Storage Account Management](https://github.com/aztfmod/terraform-azurerm-caf/pull/658)
-
 - [File Storage Solution](https://github.com/aztfmod/terraform-azurerm-caf/pull/626/files)
-
 - [Custom Data Logic for Azure VM](https://github.com/aztfmod/terraform-azurerm-caf/pull/667)
-
 - [Azure VM Disk Creation](https://github.com/aztfmod/terraform-azurerm-caf/pull/688/files)
-
 - [Azure Cognitive Services](https://github.com/aztfmod/terraform-azurerm-caf/pull/604)
 
 ## Vulcanize - Blockchain-Specific Contributions
 
-At Vulcanize I contributed blockchain specific code in Golang, wrote entire testing and deployment frames works, and maintained a Geth Fork.
+At Vulcanize I contributed blockchain-specific code in Golang, wrote entire testing and deployment frames works, and maintained a Geth Fork.
 
+- `ipld-eth-beacon` - An [application](https://github.com/cerc-io/ipld-eth-beacon-indexer) that captures the entire Beacon chains state and blocks in a postgres DB.
 - `go-ethereum` [Fork](https://github.com/vulcanize/go-ethereum/tree/v1.10.19-statediff-v5) - The commit history is hard to decipher due to the rebase strategy.
-
   - [Updates for capturing known gaps while head tracking.](https://github.com/vulcanize/go-ethereum/pull/217/files)
-
   - [Updates for capturing RLP encoded uncles (Ommers).](https://github.com/vulcanize/go-ethereum/pull/250)
-
   - [Handling Geth Patches with complex conflicts.](https://github.com/vulcanize/go-ethereum/pull/222)
-
 - [Stack Orchestrator](https://github.com/vulcanize/stack-orchestrator) - I am the primary maintainer of the repository. This repo is utilized for complex CI/CD pipelines, docker deployments, local testing, and starting geth in a local private network with deterministic behaviors.
-
   - [Compile Geth](https://github.com/vulcanize/go-ethereum/runs/7081923602?check_suite_focus=true) - One of the most useful pipelines I have built does the following.
-
     - Compiles Geth using the source code.
-
     - Start Geth in a private network using a custom Genesis File.
-
     - Deploy Smart Contracts using Foundry.
-
     - Execute Transactions and ensure they are properly written to a Postgres DB.
-
-  - [Pre-Jobs](https://github.com/vulcanize/go-ethereum/actions/runs/2572252728) - A component I have added to CICD pipelines to avoid running duplicate jobs. This saves resources, time, and allows for smoother testing.
-
+  - [Pre-Jobs](https://github.com/vulcanize/go-ethereum/actions/runs/2572252728) A component I have added to CICD pipelines to avoid running duplicate jobs. This saves resources, time, and allows for smoother testing.
 - `ipld-eth-db` - [A database](https://github.com/vulcanize/ipld-eth-db/commits?author=abdulrabbani00) that captures all events on the Ethereum Execution Layer.
-
 - `ipld-eth-server` - [An application](https://github.com/vulcanize/ipld-eth-server/commits?author=abdulrabbani00) that serves Ethereum-specific data in an IPLD format.
 
 ## Ethereum Kubernetes Testnet
@@ -125,12 +97,19 @@ I created a [pull request](https://github.com/skylenet/ethereum-k8s-testnets/pul
 Containerizing the testing framework (Co-Author)
 
 - [Initial PR](https://github.com/foundry-rs/foundry/pull/914)
-
 - [Final PR](https://github.com/foundry-rs/foundry/pull/981)
 
 # Past Experience
 
 Here I capture a few of my past roles of great significance.
+
+## Messari
+
+While working at Messari, the team and I tackled many challenges and exciting problems. The most significant overhaul was re-writing our entire market data pipeline in Rust. **Pantheon** was the name of our mono repo, and it was an absolute beast. We built a robust, configurable, adaptable pipeline.
+
+We added robust anomaly detection to avoid ingesting bad or misleading data. We also captured “proof data.” This was all the underlying data that was utilized to determine a price. We captured it in a coherent way to find outliers and showcase to clients how a price was determined. My idea with this design was to sell it to regulators that might want to understand the price of an asset across markets.
+
+I have great respect and adoration for my team. This was the best team I have ever had the pleasure of working with. We built one of the best market data products out there in Pantheon. It is the best thing I’ve ever built and something I will always be proud of.
 
 ## Vulcanize Inc
 
@@ -152,15 +131,15 @@ In my next role, I would love to combine my experience as a manager and my exper
 
 From 2019-2021 I was a DevOps Engineer at a start-up called PromoteIQ, which Microsoft owns. PromoteIQ is an advertising firm that works in the private marketplace. My job there was to maintain all the servers, networks, applications, and infrastructure to be able to serve ads for our clients.
 
-Part of being a good DevOps Engineer is ensuring you are not doing the same work twice. Infrastructure, applications, networks, servers, and other pieces of technology constantly need to be replicated and changed. Technology is great because if you work smarter, you can program it to do much for you. Some of the tools I leveraged to make my life easier were _**Ansible**,_ **Python**_,_ **Terraform**_, and_ **Jenkins**.
+Part of being a good DevOps Engineer is ensuring you are not doing the same work twice. Infrastructure, applications, networks, servers, and other pieces of technology constantly need to be replicated and changed. Technology is great because if you work smarter, you can program it to do much for you. Some of the tools I leveraged to make my life easier were _**Ansible**,_ **Python\***,\* **Terraform\***, and\* **Jenkins**.
 
-Like many companies, PromoteIQ lives on the cloud and not just one. PromotIQ has applications on **AWS**_,_ **GCP**_,_ **Azure**_,_ **Rackspace**_, and_ **Digital Ocean** to meet client needs. Because of solid leadership and competent engineers, we could efficiently serve clients out of various clouds. Through PromoteIQ and its focus on automation and growth, I understood what it takes to run a smart, sleek, and truly advanced shop in today's day and age.
+Like many companies, PromoteIQ lives on the cloud and not just one. PromotIQ has applications on **AWS\***,\* **GCP\***,\* **Azure\***,\* **Rackspace\***, and\* **Digital Ocean** to meet client needs. Because of solid leadership and competent engineers, we could efficiently serve clients out of various clouds. Through PromoteIQ and its focus on automation and growth, I understood what it takes to run a smart, sleek, and truly advanced shop in today's day and age.
 
 I want to take the lessons learned here and apply them in my next role. Being part of a “tight ship” has shown me where most companies make mistakes in culture, collaboration, and innovation. I now understand the small, individual components that must work together for the crew to work better and can attempt to improve these components in my next role.
 
 ## Societe Generale
 
-Before working for PromoteIQ, I was an SRE at Societe Generale, primarily focusing on the technology of the high-frequency, low-latency trading desk. My main focus was maintaining trading applications with latency and performance in mind. Some of my topics of interest were **microwave**_,_ **market data**_, and_ **smart order routing (SOR)**.
+Before working for PromoteIQ, I was an SRE at Societe Generale, primarily focusing on the technology of the high-frequency, low-latency trading desk. My main focus was maintaining trading applications with latency and performance in mind. Some of my topics of interest were **microwave\***,\* **market data\***, and\* **smart order routing (SOR)**.
 
 At SocGen, I learned to work very closely with physical hardware. Although I did not touch any servers in my time there, I quickly could decipher the right tool for the right job. Furthermore, with the help of some talented individuals, I became an experienced programmer at SocGen.
 

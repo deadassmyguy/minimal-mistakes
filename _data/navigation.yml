@@ -6,8 +6,6 @@ main:
     url: /categories/career/technical_experience
   - title: "Categories"
     url: /categories/
-  - title: "Business"
-    url: /categories/business/technical-due-diligence
 interview_prep:
   - title: "Interview Prep"
     children:
