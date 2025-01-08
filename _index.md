@@ -4,7 +4,7 @@ This website collects my interests, projects, services, reports, learning experi
 
 # Updates
 
-Last updated:01/01/2025
+Last updated:01/08/2025
 
 Happy New Year, everyone. I hope everyone enjoys time with their friends and family. I spent some time [reflecting on 2024](/categories/mastery/reflecting-on-2024) and I'm excited for 2025.
 
@@ -12,7 +12,7 @@ Happy New Year, everyone. I hope everyone enjoys time with their friends and fam
 
 A few _professional_ updates:
 
-- I am going to slow down on my business endeavors. I want to focus on my job and my family. I will still work on my business ideas, but I will not be as active as I have been in the past.
+- I was affected by the layoffs at Messari. It was a great run, I am happy about my time there. But I am equally happy to be moving on.
 
 - Crypto is having a moment in the mainstream, and I'm very happy about it. It's been tough in the trenches over the last few years. If you're looking to learn more, check out my [starter guide](categories/cryptocurrency_and_the_blockchain/crypto-starter-guide). It's a bit dated but has some interesting resources.
 
@@ -22,6 +22,8 @@ A few personal updates:
 
 - College wrestling just started, and I am really excited for another season.
 
-- I just finished God Of War (2018) and I loved it. It was an epic game it took me back to my childhood.
+- I finished God of War (2018) and have graduated to God of War Ragnorok. I am loving the new God of War installation and learning about Norse mythology.
 
-- I am finally good at Snowboarding. My wife and I took a trip to the Catskills and I was able to shred.
+- I am finally good at Snowboarding. My wife and I took a trip to the Catskills and I was able to shred. I am excited to hit the slopes on my annual guys trip during MLK weekend.
+
+- My wife and I are headed to Puerto Rico in February. If you have any recommendations, please let me know.
